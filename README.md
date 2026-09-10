@@ -72,7 +72,11 @@ It converts detailed transaction-level data into a simple and interactive visual
 
 ## 📊 Dashboard Preview
 
-The interactive Excel dashboard is included in this repository.
+Here is a preview of the interactive Excel Sales Performance Dashboard:
+
+![Excel Sales Performance Dashboard](Excel-Dashboard-Preview.png.gif)
+
+📁 **[Download the Excel Dashboard](Excel%20Dashboard%20File.xlsx)**
 
 📁 **Excel Dashboard File.xlsx**
 
